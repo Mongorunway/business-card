@@ -1,4 +1,4 @@
-site_name: mongorunwayorg
+site_name: Mongorunway
 site_url: https://business-card/docs/
 site_description: Mongorunway organization.
 site_author: Animatea
@@ -39,25 +39,25 @@ extra:
       link: https://discord.com/invite/KKUFRZCt4f/
   alternate:
     - name: en - English
-      link: /docs/i18n/en/
+      link: /i18n/en/
       lang: en
     - name: uk - Українська мова
-      link: /docs/i18n/uk/
+      link: /i18n/uk/
       lang: uk
     - name: cs - Český jazyk
-      link: /docs/i18n/cs/
+      link: /i18n/cs/
       lang: cs
     - name: de - Deutsche Sprache
-      link: /docs/i18n/de/
+      link: /i18n/de/
       lang: de
     - name: es - Idioma español
-      link: /docs/i18n/es/
+      link: //i18n/es/
       lang: es
     - name: fr - Langue française
-      link: /docs/i18n/fr/
+      link: /i18n/fr/
       lang: fr
     - name: ru - Русский язык
-      link: /docs/i18n/ru/
+      link: /i18n/ru/
       lang: uk
 
 extra_css:
