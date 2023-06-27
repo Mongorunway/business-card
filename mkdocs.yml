@@ -39,26 +39,26 @@ extra:
       link: https://discord.com/invite/KKUFRZCt4f/
   alternate:
     - name: en - English
-      link: /i18n/en/
+      link: /en/
       lang: en
     - name: uk - Українська мова
-      link: /i18n/uk/
+      link: /uk/
       lang: uk
     - name: cs - Český jazyk
-      link: /i18n/cs/
+      link: /cs/
       lang: cs
     - name: de - Deutsche Sprache
-      link: /i18n/de/
+      link: /de/
       lang: de
     - name: es - Idioma español
-      link: //i18n/es/
+      link: /es/
       lang: es
     - name: fr - Langue française
-      link: /i18n/fr/
+      link: /fr/
       lang: fr
     - name: ru - Русский язык
-      link: /i18n/ru/
-      lang: uk
+      link: /ru/
+      lang: ru
 
 extra_css:
   - stylesheets/slick-buttons.css
